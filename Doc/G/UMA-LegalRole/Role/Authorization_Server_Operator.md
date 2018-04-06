@@ -1,6 +1,6 @@
-Ti=Authorization Server Operator
+Ti={_Authorization_Server_Operator}
 
-0.sec=The Person who operates the Authorization Server.  Is-a relationships include:
+0.sec=The Person who operates the {_Authorization_Server}.  Is-a relationships include:
 
 She.=[G/Agt-Form-CmA/00/ID/Human/She/0.md]
 

@@ -1,6 +1,6 @@
-Ti=Client Operator
+Ti={_Client_Operator}
 
-0.sec=The Person responsible for running and operating a software application (the "Client") used by a Requesting Party or Requesting Party Agent either directly with a Resource Server Operator or by means of a Client Operator.
+0.sec=The Person responsible for running and operating a software application (the "{_Client}") used by a {_Requesting_Party} or {_Requesting_Party_Agent} either directly with a {_Resource_Server_Operator} or by means of a {_Client_Operator}.
 
 She.=[G/Agt-Form-CmA/00/ID/Human/She/0.md]
 

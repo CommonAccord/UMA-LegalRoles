@@ -1,4 +1,4 @@
-Ti=Resource Server Operator
+Ti={_Resource_Server_Operator}
 
 0.sec=The Person responsible for operating a Resource Server.  Is-a relationships include:
 

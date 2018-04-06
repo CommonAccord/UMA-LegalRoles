@@ -1,4 +1,4 @@
-Ti=Data Subject
+Ti={_Data_Subject}
 
 0.sec=The Person about whom information relates.  Is-a relationships include:
 

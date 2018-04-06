@@ -1,7 +1,6 @@
-Ti=Data Subject Agent
+Ti={_Data_Subject_Agent}
 
-0.sec=A Person to whom the Data Subject has given authority (may also
-be the Data Subject herself/himself/itself).  Is-a relationships include:
+0.sec=A Person to whom the {_Data_Subject} has given authority (may also be the {_Data_Subject} herself/himself/itself).  Is-a relationships include:
 
 She.=[G/Agt-Form-CmA/00/ID/Human/She/0.md]
 

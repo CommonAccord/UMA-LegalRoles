@@ -1,6 +1,6 @@
-Ti=Requesting Party
+Ti={_Requesting_Party}
 
-0.sec=The Person with legal capacity and authority ... to request and secure access to a Protected Resource either directly with a Resource Server Operator or by means of a Client Operator.
+0.sec=The Person with legal capacity and authority ... to request and secure access to a Protected Resource either directly with a {_Resource_Server_Operator} or by means of a {_Client_Operator}.
 
 She.=[G/Agt-Form-CmA/00/ID/Human/She/0.md]
 

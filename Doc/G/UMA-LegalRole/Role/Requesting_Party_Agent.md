@@ -1,6 +1,6 @@
-Ti=Requesting Party Agent
+Ti={_Requesting_Party_Agent}
 
-0.sec=The Person seeking access to a Protected Resource on behalf of a Requesting Party and by means of a Client software application.
+0.sec=The Person seeking access to a Protected Resource on behalf of a {_Requesting_Party} and by means of a {_Client} software application.
 
 She.=[G/Agt-Form-CmA/00/ID/Human/She/0.md]
 

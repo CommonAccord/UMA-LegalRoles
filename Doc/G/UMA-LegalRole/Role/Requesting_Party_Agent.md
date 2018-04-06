@@ -1,7 +1,6 @@
-Ti=Data Subject Agent
+Ti=Requesting Party Agent
 
-0.sec=A Person to whom the Data Subject has given authority (may also
-be the Data Subject herself/himself/itself).  Is-a relationships include:
+0.sec=The Person seeking access to a Protected Resource on behalf of a Requesting Party and by means of a Client software application.
 
 She.=[G/Agt-Form-CmA/00/ID/Human/She/0.md]
 
